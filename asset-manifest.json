@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/datacollege/static/css/main.073c9b0a.css",
-    "main.js": "/datacollege/static/js/main.cbd4d31c.js",
+    "main.js": "/datacollege/static/js/main.1ce7c085.js",
     "static/js/787.cda612ba.chunk.js": "/datacollege/static/js/787.cda612ba.chunk.js",
     "index.html": "/datacollege/index.html",
     "main.073c9b0a.css.map": "/datacollege/static/css/main.073c9b0a.css.map",
-    "main.cbd4d31c.js.map": "/datacollege/static/js/main.cbd4d31c.js.map",
+    "main.1ce7c085.js.map": "/datacollege/static/js/main.1ce7c085.js.map",
     "787.cda612ba.chunk.js.map": "/datacollege/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.cbd4d31c.js"
+    "static/js/main.1ce7c085.js"
   ]
 }
